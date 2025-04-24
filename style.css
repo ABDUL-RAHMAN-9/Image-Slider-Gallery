@@ -66,29 +66,28 @@ body {
 
 
 .slide:first-child {
-    background: url("https://images.unsplash.com/photo-1492633423870-43d1cd2775eb?q=80&w=2070") no-repeat center top/cover;
+    background: url("https://images.unsplash.com/photo-1742275346989-2d696fa2c9b3?q=80&w=1931") no-repeat center top/cover;
 }
 
 .slide:nth-child(2) {
-    background: url("https://images.unsplash.com/photo-1471565661762-b9dfae862dbe?q=80&w=2070") no-repeat center top/cover;
+    background: url("https://images.unsplash.com/photo-1744762567611-dee68f42ecc9?q=80&w=2070") no-repeat center top/cover;
 }
 
 .slide:nth-child(3) {
-    background: url("https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?q=80&w=2071") no-repeat center top/cover;
+    background: url("https://images.unsplash.com/photo-1696067650411-074128e23a1c?q=80&w=1974") no-repeat center top/cover;
 }
 
 .slide:nth-child(4) {
-    background: url("https://images.unsplash.com/photo-1469334031218-e382a71b716b?q=80&w=2070") no-repeat center top/cover;
+    background: url("https://images.unsplash.com/photo-1743482858217-5aef42cfc636?w=500") no-repeat center top/cover;
 }
 
 .slide:nth-child(5) {
-    background: url("https://images.unsplash.com/photo-1500917293891-ef795e70e1f6?q=80&w=2070") no-repeat center top/cover;
+    background: url("https://images.unsplash.com/photo-1728925583056-3dd24b338d30?w=500") no-repeat center top/cover;
 }
 
 .slide:nth-child(6) {
-    background: url("https://images.unsplash.com/photo-1463453091185-61582044d556?q=80&w=2070") no-repeat center center/cover;
+    background: url("https://images.unsplash.com/photo-1667731936723-aa2ea1745a86?w=500") no-repeat center center/cover;
 }
-
 
 .buttons button#prev {
     position: absolute;
