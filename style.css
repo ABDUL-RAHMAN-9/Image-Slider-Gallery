@@ -88,3 +88,32 @@ body {
 .slide:nth-child(6) {
     background: url("https://images.unsplash.com/photo-1463453091185-61582044d556?q=80&w=2070") no-repeat center center/cover;
 }
+
+
+.buttons button#prev {
+    position: absolute;
+    top: 50%;
+    left: 1rem;
+}
+
+.buttons button#next {
+    position: absolute;
+    top: 50%;
+    right: 1rem;
+}
+
+.buttons button {
+    border: 2px solid #e5ebf3;
+    background-color: transparent;
+    color: #e5ebf3;
+    cursor: pointer;
+    padding: 13px 15px;
+    border-radius: 50%;
+    outline: none;
+
+}
+
+.buttons button:hover {
+    background-color: #e5ebf3;
+    color: #362a2b;
+}
