@@ -99,13 +99,13 @@ Image-Slider-Gallery/
 Copy the repository to your local machine:
 
 ```
-git clone https://github.com/abdul-rahman-0x/Image-Slider-Gallery.git
+git clone https://github.com/abdul-rahman-0x/glance-gallery.git
 ```
 
 ### 2. Navigate to Directory
 
 ```
-cd Image-Slider-Gallery
+cd glance-gallery
 ```
 
 ### 3. Launch the Project
